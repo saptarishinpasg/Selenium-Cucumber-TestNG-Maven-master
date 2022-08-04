@@ -1,0 +1,7 @@
+﻿LoginTestValid,,,,,,
+Email,Password,,,,
+sample987@gmail.com,Demo123,,,,
+,,,,,,
+AccountRegistration,,,,,,
+Email,Password,Gender,Firstname,Lastname,SuccessMessage
+sample11sdf@gmail.com,Demo123,Male,Abcde,Efghi,Your registration completed
